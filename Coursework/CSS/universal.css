@@ -1,0 +1,41 @@
+.navbar-heading {
+    font-size: 50px;
+    color: #FFFFE0;
+    font-family: 'Brush Script MT', cursive; 
+}
+.navbar-links {
+    font-size: 25px;
+    color: #FFFFE0;
+    font-family: 'Courier New', monospace;
+}
+
+.page-banner {
+    font-size: 40px;
+    text-decoration: underline;
+    text-align: center;
+    color: #FFFFE0;
+    font-style: oblique;
+}
+
+.card-h4 {
+    text-decoration: underline;
+}
+
+body {
+    background-color: rgba(69, 221, 248, 0.776);
+}
+
+.text-font {
+    font-family: Georgia, serif;
+}
+
+.title-font {
+    font-family: 'Courier New', monospace;
+    
+}
+
+.footer-title {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
